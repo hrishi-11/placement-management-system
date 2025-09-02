@@ -60,9 +60,11 @@ Move project folder to your web root (htdocs for XAMPP).
 Start Apache & MySQL.
 Visit:
 http://localhost/placement-management-system/commonlogin.php
+OR run built-in PHP server:
+php -S localhost:8000 -t placement-management-system
+
 
 🖼️ Screenshots
-
 <img width="1007" height="714" alt="Screenshot 2025-09-02 121959" src="https://github.com/user-attachments/assets/249cfe0a-be41-4ad3-b0f4-4e9bd268596e" />
 <img width="1063" height="631" alt="Screenshot 2025-09-02 122121" src="https://github.com/user-attachments/assets/7b53e8b4-231a-4f8b-87c1-c8f70e9ae3c8" />
 <img width="927" height="555" alt="Screenshot 2025-09-02 122105" src="https://github.com/user-attachments/assets/3bf198fa-4746-4343-a326-f6c57c51678b" />
@@ -78,6 +80,3 @@ Contact us & Faq
 
 
 
-OR run built-in PHP server:
-
-php -S localhost:8000 -t placement-management-system
